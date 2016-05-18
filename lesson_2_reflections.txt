@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A hidden folder is created with files and subfolders. I did it because you told me.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It does not contain all the files. It gives you more control. You may be finished with one file but not another.
