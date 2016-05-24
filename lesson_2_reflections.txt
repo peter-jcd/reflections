@@ -6,3 +6,23 @@ A hidden folder is created with files and subfolders. I did it because you told 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It does not contain all the files. It gives you more control. You may be finished with one file but not another.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Check how many differences there are between the staging area and the last commit before committing.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you want to do more than one thing simultaneously, or if more than one person wants to edit the project at a time.
+
+
+How do the diagrams help you visualize the branch structure?
+
+You are able to easily see how different commits are connected to each other.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You combine the changes from both into a single version.
