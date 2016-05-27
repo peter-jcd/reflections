@@ -26,3 +26,8 @@ You are able to easily see how different commits are connected to each other.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 You combine the changes from both into a single version.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic is quicker but manual gives the user more control.
