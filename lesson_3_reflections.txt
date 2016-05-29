@@ -21,3 +21,8 @@ So you can easily see how much has changed since the last sync with the remote.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would send new versions of files by email and explain the changes I made. What would be easier is that the co-author would not need to know how to use git. What would be harder is that it would be more difficult to keep track of the changes.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you want to experiment and check the changes with someone else before publishing. It has the advantage that you can make changes without effecting the published version.
